@@ -10,7 +10,7 @@ import streamlit as st
 
 
 file = r'C:\Users\tosha\Downloads/Billionaire.csv'
-st.header ('Billionaire Dataset')
+st.header ('Billionaires Dataset')
 
 # reading the file
 df = pd.read_csv(file)
