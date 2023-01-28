@@ -7,7 +7,7 @@ Created on Sat Jan 28 02:45:11 2023
 
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+
 
 file = r'C:\Users\tosha\Downloads/Billionaire.csv'
 st.header ('Billionaire Dataset')
