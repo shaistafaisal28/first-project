@@ -13,7 +13,7 @@ file = r'C:\Users\tosha\Downloads/Billionaire.csv'
 st.header ('Billionaires Dataset')
 
 # reading the file
-df = pd.read_csv(file)
+df = pd.read_csv('Billionaire.csv')
 
 
 #for excel files type following codes
